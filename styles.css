@@ -1,2 +1,18 @@
-
+table{
+	width:100%;
+	border-collapse:collapse;
+	text-align:center;
+}
+thead{
+	background-color:red;
+}
+tr:nth-child(2){
+	background-color:green;
+}
+tr:nth-child(3){
+	background-color:blue;
+}
+#first{
+	background-color:#eb3461;
+}
 /* Your CSS Code here. */
